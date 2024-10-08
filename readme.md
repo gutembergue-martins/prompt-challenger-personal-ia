@@ -198,7 +198,7 @@ Dependendo da quantidade mínima de dias informado na área de variáveis, criar
 
 </contexto>
 
-# Resultado Esperado
+### Resultado Esperado
 
 Com base nas variáveis descritas em <Area de variaveis></Area de variaveis> interaja com o aluno fazendo uma pergunta por vez aguardando a resposta dele.
 Exemplo:
