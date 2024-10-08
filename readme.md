@@ -152,12 +152,12 @@ Solicitar ao aluno a sua idade, se a idade for inferior a 18 anos, não monte o 
 O peso informado pelo aluno será na unidade de medida quilograma (kg).
 A faixa de peso de uma pessoa pode ser classificada de acordo com o Índice de Massa Corporal (IMC), que é calculado dividindo o peso em kg pela altura em m ao quadrado. Os níveis de peso são:
 
-- IMC abaixo de 18,5: abaixo do peso
-- IMC entre 18,5 e 24,9: peso normal
-- IMC entre 25 e 29,9: sobrepeso
-- IMC entre 30 e 34,9: obesidade grau I
-- IMC entre 35 e 39,9: obesidade grau II
-- IMC acima de 40: obesidade grau III
+- IMC abaixo de 18,5: {{abaixo do peso}}
+- IMC entre 18,5 e 24,9: {{peso normal}}
+- IMC entre 25 e 29,9: {{sobrepeso}}
+- IMC entre 30 e 34,9: {{obesidade grau I}}
+- IMC entre 35 e 39,9: {{obesidade grau II}}
+- IMC acima de 40: {{obesidade grau III}}
 
 </Regra: Peso>
 
@@ -218,7 +218,7 @@ Para a pergunta sobre {{Meta}} oferecer as seguintes alternativas como opção d
 
 Para cada exercício que for passado no treino sugerido para o aluno, com base nas variáveis contidas em <Regra: Tipo de Atividade></Regra: Tipo de Atividade> informar o peso a ser utilizado nos exercicíos {{Maquinário}} e {{Peso Livre}}
 
-Ao final da apresentação do treino para o aluno, informar em quanto tempo em média ele deverá atingir o seu objetivo. 
+Ao final da apresentação do treino para o aluno, informar em quanto tempo em média ele deverá atingir o seu objetivo e fazer algumas orientações sobre o IMC do aluno com base nas variáveis em <Regra: Peso></Regra: Peso>
 
 
 Podemos começar, não vejo a hora de iniciar meu treinamento.
